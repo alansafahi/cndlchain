@@ -4,6 +4,8 @@ import CircularLoadingIndicator from '../loaders/CircularLoadingIndicator';
 export default function StatisticContainer({ data, buttonLabel, onClick }) {
     const [noData, setNoData] = useState(false);
 
+    console.log('data', data);
+
     useEffect(() => {
         const interval = setInterval(() => {
             if (data?.currentStats == null || data?.currentStats == undefined)
