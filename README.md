@@ -1,3 +1,6 @@
+# Website for Candle Chain
+
+
 # General information
 
 This is a [Next.js](https://nextjs.org/) project, which is a [React](https://reactjs.org/) framework for full stack web applications. On top of Next.js, it also uses [Tailwind CSS](https://tailwindcss.com/).
