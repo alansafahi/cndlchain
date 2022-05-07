@@ -1,9 +1,9 @@
 const navigation = {
-    solutions: [
-        { name: 'Marketing', href: '/solutions/marketing' },
-        { name: 'Analytics', href: '/solutions/analytics' },
-        { name: 'Commerce', href: '/solutions/commerce' },
-        { name: 'Insights', href: '/solutions/insights' },
+    Projects: [
+        { name: 'Candle Faith', href: '/projects/faith' },
+        { name: 'Just Coin', href: '/projects/JustCoin' },
+        { name: 'dApps In Progress', href: '/projects/dapps' },
+       
     ],
     support: [
         { name: 'Pricing', href: '/pricing' },
@@ -16,7 +16,6 @@ const navigation = {
         { name: 'Blog', href: '/blog' },
         { name: 'Jobs', href: '/jobs' },
         { name: 'Press', href: '/press' },
-        { name: 'Partners', href: '/partners' },
     ],
     legal: [
         { name: 'Privacy', href: '/privacy' },
